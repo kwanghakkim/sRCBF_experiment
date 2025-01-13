@@ -1,3 +1,3 @@
 README
 
-Code Repository for sRCBF obstacle avoidance exerpiments.
+Code repository for sRCBF obstacle avoidance exerpiments.
